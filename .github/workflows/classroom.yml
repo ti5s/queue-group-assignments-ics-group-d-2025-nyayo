@@ -1,6 +1,6 @@
 name: Autograding Tests
 'on':
-- push
+- push 
 - repository_dispatch
 permissions:
   checks: write
