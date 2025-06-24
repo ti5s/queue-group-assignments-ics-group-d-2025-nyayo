@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import time
 
-# Backend logic for the print queue
+ # Backend logic for the print queue
 class CircularPrinterQueue:
     CAPACITY = 10
 

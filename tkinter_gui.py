@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from print_queue_manager import PrintQueueManager
-
+ #
 class QueueGUI:
     def __init__(self, root):
         self.manager = PrintQueueManager()
